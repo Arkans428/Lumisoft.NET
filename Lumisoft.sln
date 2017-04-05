@@ -1,0 +1,40 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LumiSoft.Net", "Lumisoft.Net\Net\LumiSoft.Net.csproj", "{7AB36CCF-5FFD-4780-A54E-A102ECA028B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LumiSoft.UI", "LumiSoft.UI\LumiSoft.UI.csproj", "{F4D46B69-C677-4465-9C41-A6235063EDD7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AB36CCF-5FFD-4780-A54E-A102ECA028B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AB36CCF-5FFD-4780-A54E-A102ECA028B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AB36CCF-5FFD-4780-A54E-A102ECA028B5}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{7AB36CCF-5FFD-4780-A54E-A102ECA028B5}.Debug|x86.Build.0 = Debug|Any CPU
+		{7AB36CCF-5FFD-4780-A54E-A102ECA028B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AB36CCF-5FFD-4780-A54E-A102ECA028B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AB36CCF-5FFD-4780-A54E-A102ECA028B5}.Release|x86.ActiveCfg = Release|Any CPU
+		{F4D46B69-C677-4465-9C41-A6235063EDD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4D46B69-C677-4465-9C41-A6235063EDD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4D46B69-C677-4465-9C41-A6235063EDD7}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F4D46B69-C677-4465-9C41-A6235063EDD7}.Debug|x86.Build.0 = Debug|Any CPU
+		{F4D46B69-C677-4465-9C41-A6235063EDD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4D46B69-C677-4465-9C41-A6235063EDD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4D46B69-C677-4465-9C41-A6235063EDD7}.Release|x86.ActiveCfg = Release|Any CPU
+		{F4D46B69-C677-4465-9C41-A6235063EDD7}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+EndGlobal

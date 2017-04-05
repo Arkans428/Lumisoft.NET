@@ -1,0 +1,3 @@
+C:\_Data\LumiSoft\Net\Net\bin\Release\LumiSoft.Net.dll
+C:\_Data\LumiSoft\Net\Net\bin\Release\LumiSoft.Net.xml
+C:\_Data\LumiSoft\Net\Net\obj\Release\LumiSoft.Net.dll

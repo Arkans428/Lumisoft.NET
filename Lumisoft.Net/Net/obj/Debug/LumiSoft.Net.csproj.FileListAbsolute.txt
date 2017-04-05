@@ -1,0 +1,6 @@
+C:\Users\Arkans\Source\Repos\Lumisoft.NET\bin\Debug\LumiSoft.Net.dll
+C:\Users\Arkans\Source\Repos\Lumisoft.NET\bin\Debug\LumiSoft.Net.pdb
+C:\Users\Arkans\Source\Repos\Lumisoft.NET\bin\Debug\LumiSoft.Net.xml
+C:\Users\Arkans\Source\Repos\Lumisoft.NET\Lumisoft.Net\Net\obj\Debug\LumiSoft.Net.csprojResolveAssemblyReference.cache
+C:\Users\Arkans\Source\Repos\Lumisoft.NET\Lumisoft.Net\Net\obj\Debug\LumiSoft.Net.dll
+C:\Users\Arkans\Source\Repos\Lumisoft.NET\Lumisoft.Net\Net\obj\Debug\LumiSoft.Net.pdb

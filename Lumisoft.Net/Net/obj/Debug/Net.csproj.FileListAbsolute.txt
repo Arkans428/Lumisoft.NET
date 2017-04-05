@@ -1,0 +1,6 @@
+C:\_Data\LumiSoft\Net\Net\bin\Debug\LumiSoft.Net.dll
+C:\_Data\LumiSoft\Net\Net\bin\Debug\LumiSoft.Net.pdb
+C:\_Data\LumiSoft\Net\Net\bin\Debug\LumiSoft.Net.xml
+C:\_Data\LumiSoft\Net\Net\obj\Debug\LumiSoft.Net.dll
+C:\_Data\LumiSoft\Net\Net\obj\Debug\LumiSoft.Net.pdb
+C:\_Data\LumiSoft\Net\Net\obj\Debug\Net.csprojResolveAssemblyReference.cache
